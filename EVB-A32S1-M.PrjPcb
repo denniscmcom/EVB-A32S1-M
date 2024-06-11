@@ -68,13 +68,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPUNQLSV
 
-[Parameter1]
-Name=DrawnBy
-Value=Dennis C. M.
+[Document2]
+DocumentPath=EVB-A32S1-M.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[Parameter1]
 Name=CompanyName
 Value=Dennis Micro Computers
+
+[Parameter2]
+Name=DrawnBy
+Value=Dennis C. M.
 
 [Parameter3]
 Name=Title
