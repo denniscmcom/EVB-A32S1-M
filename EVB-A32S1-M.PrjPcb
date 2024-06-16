@@ -137,16 +137,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=CompanyName
-Value=Dennis Micro Computers
+Name=Revision
+Value=0.2
 
 [Parameter2]
+Name=Title
+Value=EVB-A32S1-M
+
+[Parameter3]
 Name=DrawnBy
 Value=Dennis C. M.
 
-[Parameter3]
-Name=Title
-Value=EVB-A32S1-M
+[Parameter4]
+Name=CompanyName
+Value=Dennis Micro Computers
 
 [Configuration1]
 Name=Sources
