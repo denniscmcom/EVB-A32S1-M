@@ -69,7 +69,7 @@ GenerateClassCluster=0
 DocumentUniqueId=COEQYDUU
 
 [Document2]
-DocumentPath=Power.SchDoc
+DocumentPath=1_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SPUNQLSV
 
 [Document3]
-DocumentPath=MCU.SchDoc
+DocumentPath=2_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HAKBNZGZ
 
 [Document4]
-DocumentPath=Motor.SchDoc
+DocumentPath=3_Motor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GDEUCERC
 
 [Document5]
-DocumentPath=Sensing.SchDoc
+DocumentPath=4_Sensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,20 +154,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Title
-Value=EVB-A32S1-M
+Name=CompanyName
+Value=Dennis Micro Computers
 
 [Parameter2]
-Name=Revision
-Value=0.2
-
-[Parameter3]
 Name=DrawnBy
 Value=Dennis C. M.
 
+[Parameter3]
+Name=Revision
+Value=0.2
+
 [Parameter4]
-Name=CompanyName
-Value=Dennis Micro Computers
+Name=Title
+Value=EVB-A32S1-M
 
 [Configuration1]
 Name=Sources
