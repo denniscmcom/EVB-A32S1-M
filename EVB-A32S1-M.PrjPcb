@@ -153,6 +153,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMJXAOHQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EVB-A32S1-M\Design Rule Check - EVB-A32S1-M_PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CompanyName
 Value=Dennis Micro Computers
