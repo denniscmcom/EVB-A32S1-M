@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=push-to-aisler-odb.Outjob
+Name=Job Group
 Description=
 TargetOutputMedium=Push to AISLER
 VariantName=[No Variations]
