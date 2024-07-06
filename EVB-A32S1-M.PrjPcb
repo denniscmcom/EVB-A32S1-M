@@ -170,23 +170,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSQQCOXL
 
-[Document8]
-DocumentPath=push-to-aisler-odb.Outjob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EVB-A32S1-M\Design Rule Check - EVB-A32S1-M_PCB.html
 DItemRevisionGUID=
