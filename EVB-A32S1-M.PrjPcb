@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VZVFDNRK
 
 [Document5]
-DocumentPath=EVB-A32S1-M.BomDoc
+DocumentPath=EVB-A32S1-M_BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
